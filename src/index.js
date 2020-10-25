@@ -63,6 +63,7 @@ function decodeLetter(morceLetter) {
       }
     }
     return MORSE_TABLE[morseCode];
+    
   }
 }
 
